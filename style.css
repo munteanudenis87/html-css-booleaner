@@ -6,3 +6,10 @@
     url(./img/pattern.png);
     background-size: 300px 100px;
 }
+th{
+    color: white;
+    background-color: rgb(18, 102, 172);
+}
+.colore{
+    background-color: rgb(35, 160, 177);
+}
