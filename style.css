@@ -6,10 +6,15 @@
     url(./img/pattern.png);
     background-size: 300px 100px;
 }
+.author{color: rgb(35, 160, 177);}
+.didascalia{font-size: 10px;}
 th{
     color: white;
     background-color: rgb(18, 102, 172);
 }
 .colore{
     background-color: rgb(35, 160, 177);
+}
+.important{
+    background-color: yellow;
 }
